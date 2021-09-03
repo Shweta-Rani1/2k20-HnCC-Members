@@ -5,6 +5,10 @@ It contains the details of 2k20 members of Hackathon and Coding Club, BIT SINDRI
 
 ![](Screenshot%20(99).png)
 
+ <h3>Check it out👀</h3>
+
+ https://shweta-rani1.github.io/2k20-HnCC-Members/
+
 <h2>FEATURES</h2>
 
 ✨ It contains information about the members 2k20 HnCC members.
